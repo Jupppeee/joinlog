@@ -1,6 +1,6 @@
-local logs = "https://discordapp.com/api/webhooks/606268766287953930/ZFcbGZ-6E1ehePt72DyXDS307CCJ0UFr5naWSXnLt8UdqnXqMqFLQ6frJt9Rrs4ogfo-"
-local communityname = "PremiumRP - Tulli"
-local communtiylogo = "https://imgur.com/z2EXieX" --Must end with .png or .jpg
+local logs = "https://discordapp.com/api/webhooks/606268766287953930/ZFcbGZ-6E1ehePt72DyXDS307CCJ0UFr5naWSXnLt8UdqnXqMqFLQ6farrJt9Rrs4ogfo-"   -- change this
+local communityname = "NAME"     -- change
+local communtiylogo = "https://imgur.com/zz2EXieX" --Must end with .png or .jpg
 
 AddEventHandler('playerConnecting', function()
 local name = GetPlayerName(source)
